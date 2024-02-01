@@ -1,2 +1,3 @@
-# frogs_detection
-..
+FrogClassifier is an innovative Python project designed to simplify the task of identifying and organizing images of two distinct frog species: the "Toad" and the "Red-Eyed Tree Frog." Leveraging state-of-the-art artificial intelligence techniques, this project offers a robust solution for automatically categorizing and managing frog images with high accuracy.
+
+FrogClassifier empowers users to effortlessly manage and identify frog species within their photo collections, making it an invaluable tool for researchers, educators, and nature enthusiasts. With its cutting-edge image classification capabilities, this Python project brings the world of frog identification to new levels of accuracy and efficiency.
